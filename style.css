@@ -1,0 +1,87 @@
+.reservation{
+    width: 100%;
+    font-size: 10px;
+}
+.reservation img{
+
+    width : 150px;
+    margin-top: 20px;
+    border-radius: 50%;
+    border-bottom: 5px solid black;
+}
+
+.reservation h2{
+    font-size: 30px;
+    margin-top: 15px;
+
+}
+nav{
+    width: 30%;
+    text-align: center;
+    float: left;
+    border: 2px solid black;
+    padding: 8px;
+    font-size: 20px;
+    background-color: rgb(215, 160, 160);
+    color: black;
+}
+.nom{
+    margin: 5px;
+}
+.email{
+    margin: 5px;
+}
+.adresse{
+    margin: 5px;
+}
+.telephone{
+    margin: 5px;
+}
+.date{
+    margin: 5px;
+}
+
+input{
+    padding: 10px;
+    border: 1px solid black;
+    font-size: 20px;
+}
+button{
+    background-color: white;
+    width: 100px;
+    padding: 4px;
+    border: 1px solid;
+    margin: 10px;
+    font-size: 18px;
+}
+.info{
+    float:  right;
+    width: 60%;
+    height: 100vh;
+    padding: 0 30px;
+}
+table{
+width: 800px;
+font-size: 25px;
+background-color: wheat;
+}
+
+table th{
+    color: black;
+    font-size: 25px;
+    padding: 10px;
+
+}
+
+.socialMedia{
+    width: 100%;
+    margin-top: 20px;
+}
+.socialMedia i{
+    color: rgb(22, 59, 127);
+    padding-left: 8px;
+}
+
+
+
+
